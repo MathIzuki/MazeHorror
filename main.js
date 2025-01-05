@@ -11,7 +11,7 @@ let maze = [];
 const wallSize = 20;
 const mazeWidth = 20; // Augmenter la taille du labyrinthe
 const mazeHeight = 20;
-const moveSpeed = 0.1;
+const moveSpeed = 0.3;
 const beastSpeed = 0.05;
 const keys = { forward: false, backward: false, left: false, right: false };
 let beast;
